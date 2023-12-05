@@ -1,0 +1,39 @@
+/* Example-03 */
+.emoji{
+    width: 200px;
+    height: 200px;
+}
+
+/* Example-06 */
+#show{
+    display: none;
+}
+
+/* Example-34 */
+#show-img{
+    display: none;
+}
+
+/* Example-37 */
+.red{
+    width: 50px;
+    height: 20px;
+    background-color: red;
+}
+.yellow{
+    width: 50px;
+    height: 20px;
+    background-color: yellow;
+}
+.green{
+    width: 50px;
+    height: 20px;
+    background-color: green;
+}
+
+/* Example-50 */
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
