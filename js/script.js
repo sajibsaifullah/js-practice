@@ -12,10 +12,10 @@ document
 
 // Example-03
 function smile() {
-  document.getElementById("emoji").src = "images/smile.gif";
+  document.getElementById("emoji").src = "./images/smile.gif";
 }
 function sad() {
-  document.getElementById("emoji").src = "images/sad.gif";
+  document.getElementById("emoji").src = "./images/sad.gif";
 }
 
 // Example-04
